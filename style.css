@@ -111,6 +111,7 @@ img {
     color: white;
     text-align: center;
     padding: 4px 8px;
+    border: 2px solid rgb(115, 115, 123);
 
 }
 
@@ -131,6 +132,6 @@ img {
 }
 
 .source-btn:hover {
-    color: rgb(48, 52, 144);
-    border: rgb(48, 52, 144) solid 3px;
+    color: rgb(83, 86, 164);
+    border: rgb(83, 86, 164) solid 3px;
 }
